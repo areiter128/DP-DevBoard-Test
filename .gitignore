@@ -61,15 +61,8 @@ disassembly/
 !readme.txt
 !readme.md
 !Makefile
-!sepic_pcmc.X/Makefile
-!sepic_pcmc.X/readme.txt
-!sepic_pcmc.X/*.dcld
 !src/
 !h/
 !dist/
-!sepic_pcmc.X/src/
-!sepic_pcmc.X/h/
-!sepic_pcmc.X/dist/
-!sepic_pcmc.X/nbproject/configurations.xml
 
 
